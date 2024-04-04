@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *MERN Stack*
 
-- 👨‍💻 All of my projects are available at [https://github.com/akhiln2003?tab=repositories](https://github.com/akhiln2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/akhiln2003?tab=repositories)
 
 - 💬 Ask me about *Java script,nodejs,mongodb,data structure*
 
