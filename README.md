@@ -1,7 +1,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiln2003&label=Profile%20views&color=0e75b6&style=flat" alt="akhiln2003" /> </p>
 <h1 align="center">Hi there 👋, I'm AKHIL N</h1>
 
-
+<!--
 ###  About Me:
 
 - 🔭 I’m currently learning **MERN Stack**
@@ -11,6 +11,8 @@
 - 📫 How to reach me: [akhiln8137@gmail.com](mailto:akhiln8137@gmail.com)
 
 ---
+-->
+
 
 ### 🚀 Technologies & Tools:
 <p align="left">
